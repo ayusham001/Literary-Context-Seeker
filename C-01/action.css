@@ -1,0 +1,53 @@
+div.vdo{
+position: relative;
+margin: 0;
+}
+.bgvdo{
+position: absolute;
+width:1580;
+
+}
+div.main{
+    position: absolute;	
+    width: 500px;
+    margin: 220px auto 0px auto;
+    top: auto;
+    left: 530;
+}
+h2{
+    text-align: center;
+    padding:20px;
+}
+div.register{
+    background-size: 100px;
+    background-color:rgba(0,0,0,0.2);
+    border-radius: 15px;
+    border: 1px soid rgba(255,255,255,0.5);
+    box-shadow: 2px 2px 15px;
+    rgba:(0,0,0,0.1);
+}
+#vdo{
+background-size:"100%";
+}
+form#register{
+margin: 40px;
+}
+input#cont{
+width: 180px;
+padding: 30px;
+}
+input#name{
+border-radius: 3px
+}
+input#submit{
+text-align: center;
+background-color: rgba(0,0,0,0.9);
+color: #ffff;
+box-shadow: 1px 1px 5px
+rgba(225,225,225,0.9);
+}
+div.vl{
+border-left:6px solid black;
+position: absolute;
+height: 200px;
+}
